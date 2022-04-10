@@ -1,6 +1,7 @@
 //Copyright TRAISTARU Andreea-Maria 332CA
 
 ================== Marketplace =================
+
 --------------- Tema 1 - ASC -------------------
 
     Implementare.
